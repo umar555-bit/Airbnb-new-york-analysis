@@ -1,4 +1,4 @@
-# Airbnb-new-york-analysis
+
 # New York City Airbnb EDA Project
 
 A comprehensive Exploratory Data Analysis (EDA) on Airbnb listings in New York City to uncover insights related to pricing, availability, room types, neighbourhood trends, and host behaviour.
